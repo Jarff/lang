@@ -2,6 +2,7 @@
     "name": "rodsaseg/laravel-lang",
     "description": "Languages for Laravel",
     "keywords": ["laravel", "languages", "lpm", "lang"],
+    "type": "package",
     "license": "MIT",
     "authors": [
         {
